@@ -39,14 +39,3 @@ root 123 5.2 0.3 79284 3456 ? R 15:03 0:01 some-cpu-intense-command
 ...
 
 ---
-
-## 🛠️ How to Use
-
-### 1. Clone the Repository (or download the script)
-```bash
-git clone https://github.com/yourusername/node-health-check.git
-cd node-health-check
-### 2. Make the Script Executable
-chmod +x node_health_check.sh
-### 3. Run the Script
-./node_health_check.sh
